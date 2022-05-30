@@ -10,9 +10,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputerData.Application", "ComputerData.Application\ComputerData.Application.csproj", "{ED5F6501-96AB-4C09-8E0A-5D1607390F99}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2B1E69E3-AD8F-44AC-91F1-7EEAF4C49E1E}"
-	ProjectSection(SolutionItems) = preProject
-		.deployment = .deployment
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
