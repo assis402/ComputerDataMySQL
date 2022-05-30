@@ -1,2 +1,2 @@
 ﻿[config]
-project = ComputerData/ComputerData.API.csproj
+project = ComputerData.API/ComputerData.API.csproj
