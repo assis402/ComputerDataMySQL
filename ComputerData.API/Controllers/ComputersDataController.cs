@@ -25,6 +25,7 @@ namespace ComputerData.API.Controllers
             {
                 var computerList = await _computerService.GetAll();
 
+
                 if (computerList.Count != 0)
                     return Ok(computerList);
                 else
