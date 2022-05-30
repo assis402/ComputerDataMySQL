@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'computer-data-backend'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4137C821004A425D956BC739CC223212 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_41756962F91E44F8926029CA72997CE0 }}
           package: .
